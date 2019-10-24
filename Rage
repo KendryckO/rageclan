@@ -1,0 +1,33 @@
+<!doctype html> 
+<html>
+  <style>
+ body {
+ background-color:black;
+   color:white;
+   text-align:center;
+}
+h1 {
+ color:orange;
+ text-align:center;
+  text-decoration:underline;
+  font-family:arial
+}
+    .a {
+  border:red solid 5px ;
+      text-align:center
+    }
+
+ </style>
+  <Title>Rage Clan </title>
+  <head><h1>Rage Clan</h1> </head>
+  <body> <p><h3><i><b>“This clan is goated”</p></h3></i></b>
+<img class="a" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWQ8DJKF2mlX21GCfjEkxGtbQn_JL-3ZkEzJPXZi16fihRahLC">
+<b><h2><ul>
+  <ol><a href="">Members</ol>
+  <ol><a href="">Activities </ol>
+  <ol><a href="">How to join</ol>
+  </ul>
+    
+    
+    
+  </body>
